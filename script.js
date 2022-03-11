@@ -3,7 +3,7 @@ alert("I'm invoked!");
 
 
 alert("I'm JavaScript!");
-alert('Hello') // this line is not having semicolon
+alert('Hello') 
 alert(`Wor
  ld`)
 alert(3 +

@@ -80,7 +80,6 @@ else
       console.log("Go Away");
 }
   
-// 
 
 
 let a = prompt("First number?",);
